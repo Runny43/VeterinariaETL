@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-G0MO3BT.Veterinaria"
+  DTS:DTSID="{CE9C871C-057C-40B8-BB59-871F55965B89}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-G0MO3BT;Initial Catalog=Veterinaria;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Application Name=SSIS-VeterinariaETL-{CE9C871C-057C-40B8-BB59-871F55965B89}DESKTOP-G0MO3BT.Veterinaria;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

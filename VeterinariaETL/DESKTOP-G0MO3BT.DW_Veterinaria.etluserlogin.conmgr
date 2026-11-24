@@ -1,0 +1,16 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-G0MO3BT.DW_Veterinaria.etluserlogin"
+  DTS:DTSID="{A95B0BCD-B562-44E0-A177-C8747EAB8409}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-G0MO3BT;User ID=etluserlogin;Initial Catalog=DW_Veterinaria;Provider=MSOLEDBSQL.1;Persist Security Info=True;Application Name=SSIS-{A95B0BCD-B562-44E0-A177-C8747EAB8409}DESKTOP-G0MO3BT.DW_Veterinaria.etluserlogin;Initial File Name=;Server SPN=;Authentication=;Access Token=;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAeuvAjLYjKEmnnpHHJcZi9AAAAAACAAAAAAAQZgAAAAEAACAAAABHaNGmC0GgvEMExHj3nPJr21Gfd2ZWDcO+LKOvhGcanAAAAAAOgAAAAAIAACAAAAAddTQ6/yzJ23iW7N3bIi547v2SkUkSznN7tTnLYVbhvYAAAABO/cjkT78DdqnLc8PYcgVNkdk533G3ng/vldRpz78wLLqOWbfgtTzH3wqX8HpZFL2b45ieWJjecGgIdHfdiWLRjEKZgD4CTF5vDTzRkuJb25781R1jTT7U9PaP9qjYD4+eyqrNGdv7ncSnILoYP8V2iIac0pmP91OPDuS/J9XjfUAAAAA/diVFIQXqvO1o9ktpXAH8NNyosuu5kZGPnPDbUgIzZ0fpm4kwRKZSN1pgF81oYWdf4SEJ2qNgxyQY4g2LOPdG</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
